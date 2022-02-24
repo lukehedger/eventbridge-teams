@@ -1,0 +1,8 @@
+[
+  {
+    "Detail": "{ \"message\": \"Hello, Teams!\" }",
+    "DetailType": "TEAMS_ALERT",
+    "EventBusName": "teams-alerts",
+    "Source": "custom.teams.alert"
+  }
+]
